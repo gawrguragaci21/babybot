@@ -1,7 +1,7 @@
 {
-  "name": "babybot",
+  "name": "FiixlyBotz",
   "version": "5.0.0",
-  "description": "Follow instagram @iamramlan_",
+  "description": "Just for fun",
   "main": "main.js",
   "directories": {
     "lib": "lib"
